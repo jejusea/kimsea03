@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kimsea03
 - 👀 I’m interested in CFD and so on
 - 🌱 I’m currently learning C,Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig @sealoveya
 
 <!---
